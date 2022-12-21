@@ -1,0 +1,43 @@
+l = ['w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'p', 'p', 'p', 'w', 'w', 'w', 'p', 'w', 'p', 'p', 'p', 'p', 'p', 'w', 'w', 'p', 'w', 'p', 'p', 'p', 'p', 'p', 'p', 'p', 'w', 'p', 'w', 'w', 'w', 'w', 'p', 'w', 'w', 'w', 'p', 'w', 'w', 'w', 'w', 'w', 'p', 'p', 'w', 'w', 'w', 'p', 'p', 'w', 'p', 'p', 'w', 'p', 'p', 'p', 'w', 'w', 'p', 'p', 'w', 'w', 'p', 'w', 'w', 'p', 'w', 'w', 'p', 'w', 'p', 'p', 'w', 'w', 'p', 'w', 'w', 'p', 'p', 'w', 'p', 'p', 'w', 'w', 'w', 'w', 'p', 'p', 'p', 'p', 'w', 'w', 'p', 'w', 'w', 'w', 'p', 'p', 'p', 'p', 'w', 'p', 'w', 'w', 'w', 'w', 'w', 'p', 'p', 'p', 'w', 'p', 'w', 'w', 'p', 'w', 'p', 'w', 'p', 'p', 'w', 'w', 'p', 'w', 'p', 'w', 'w', 'w', 'w', 'p', 'w', 'p', 'p', 'p', 'w', 'w', 'w', 'p', 'w', 'w', 'w', 'p', 'p', 'p', 'p', 'w', 'w', 'w', 'p', 'p', 'w', 'w', 'w', 'w', 'p', 'p', 'p', 'w', 'w', 'w', 'w', 'p', 'w', 'w', 'p', 'w', 'w', 'p', 'w', 'p', 'w', 'p', 'w', 'p', 'p', 'w', 'p', 'w', 'p', 'p', 'w', 'w', 'p', 'p', 'p', 'w', 'p', 'w', 'w', 'p', 'p', 'p', 'p', 'p', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w', 'w']
+x = 8.5
+y = 9.5
+hearts = 7
+fish = [92, 157, 122, 121, 100]
+feld = 110
+fat = 0
+geschw = 0.03
+startx = 8.5
+starty = 9.5
+howmanydogs = 3
+holes = [27, 69, 155]
+mice = [79, 110]
+dogs = []
+dogs.append(dog())
+dogs[0].richtung = 0
+dogs[0].anzahlrichtungen = 0
+dogs[0].fastrichtung = 0
+dogs[0].x = 3.5
+dogs[0].y = 2.5
+dogs.append(dog())
+dogs[1].richtung = 0
+dogs[1].anzahlrichtungen = 0
+dogs[1].fastrichtung = 0
+dogs[1].x = 1.5
+dogs[1].y = 2.5
+dogs.append(dog())
+dogs[2].richtung = 0
+dogs[2].anzahlrichtungen = 0
+dogs[2].fastrichtung = 0
+dogs[2].x = 2.5
+dogs[2].y = 1.5
+dogpos = []
+dogrichtungen = []
+mousepoweractivated.startpoint = 6.98248553276062
+mousepoweractivated.ispause = True
+mousepoweractivated.timeofpause = 1669189720.355504
+speedruntimer.startpoint = 1669189725.8959868
+speedruntimer.ispause = True
+speedruntimer.timeofpause = 1.442002773284912
+dogshowtimer.startpoint = 1669189725.8959868
+dogshowtimer.ispause = True
+dogshowtimer.timeofpause = 1.442002773284912
